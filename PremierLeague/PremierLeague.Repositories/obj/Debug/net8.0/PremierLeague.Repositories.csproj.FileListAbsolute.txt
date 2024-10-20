@@ -1,0 +1,14 @@
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\bin\Debug\net8.0\PremierLeague.Repositories.deps.json
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\bin\Debug\net8.0\PremierLeague.Repositories.dll
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\bin\Debug\net8.0\PremierLeague.Repositories.pdb
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.AssemblyInfoInputs.cache
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.AssemblyInfo.cs
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.csproj.CoreCompileInputs.cache
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.dll
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\refint\PremierLeague.Repositories.dll
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.pdb
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\ref\PremierLeague.Repositories.dll
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\bin\Debug\net8.0\PremierLeague.Repositories.runtimeconfig.json
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.csproj.AssemblyReference.cache
+D:\Project-ShopCaKoi\PremierLeague\PremierLeague.Repositories\obj\Debug\net8.0\PremierLeague.Repositories.genruntimeconfig.cache
